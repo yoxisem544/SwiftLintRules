@@ -1,4 +1,3 @@
-
 # Rules
 
 * [AnyObject Protocol](#anyobject-protocol)
